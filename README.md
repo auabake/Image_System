@@ -28,7 +28,7 @@ Usgin AWSRDS for postgress to hande user data. Maged service is earier to scale 
 
 ## Security
 
-![Pezesha](./Security.png)
+![Pezesha](./Seurityp.png)
 
 
 ## Scalability
