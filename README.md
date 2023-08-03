@@ -6,7 +6,7 @@
 
 ## Security
 
-![Pezesha](./security.png)
+![Pezesha](./Security.png)
 
 ## Scalability
 
